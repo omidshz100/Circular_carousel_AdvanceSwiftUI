@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic1</string>
+			<key>relativePath</key>
+			<string>./Pic 1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic2</string>
+			<key>relativePath</key>
+			<string>./Pic 2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic3</string>
+			<key>relativePath</key>
+			<string>./Pic 3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic4</string>
+			<key>relativePath</key>
+			<string>./Pic 4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic5</string>
+			<key>relativePath</key>
+			<string>./Pic 5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic5</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic6</string>
+			<key>relativePath</key>
+			<string>./Pic 6.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic6</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic7</string>
+			<key>relativePath</key>
+			<string>./Pic 7.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic7</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePic8</string>
+			<key>relativePath</key>
+			<string>./Pic 8.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pic8</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

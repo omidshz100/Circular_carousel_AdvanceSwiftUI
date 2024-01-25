@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carousel-master.swiftconstvalues",
+    "dependencies" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carousel-master.d",
+    "diagnostics" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carousel-master.dia",
+    "emit-module-dependencies" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carousel-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carousel-master-emit-module.dia",
+    "swift-dependencies" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carousel-master.swiftdeps"
+  },
+  "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Circular_carouselApp.swift" : {
+    "index-unit-output-path" : "/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carouselApp.o",
+    "llvm-bc" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carouselApp.bc",
+    "object" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Circular_carouselApp.o"
+  },
+  "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/ContentView.swift" : {
+    "index-unit-output-path" : "/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/View/Home.swift" : {
+    "index-unit-output-path" : "/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Home.o",
+    "llvm-bc" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Home.bc",
+    "object" : "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/Objects-normal/arm64/Home.o"
+  }
+}

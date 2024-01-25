@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "44b59b332ee81dcd5421e6001ff60780c9f39d3d0ab723b3395f761cc1d64932"
+build_start_time: [1706093824, 182037000]
+build_end_time: [1706093826, 891196000]
+inputs:
+  ? "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/Circular_carouselApp.swift"
+  : [1706093771, 105667593]
+  "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/ContentView.swift": [1705939911, 300798261]
+  "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/Circular_carousel/View/Home.swift": [1706093404, 717664576]
+  ? "/Users/omidshojaeianzanjani/Desktop/swiftUI tips/KavSoft/_Done projects/Circular_carousel/build/Circular_carousel.build/Release-iphoneos/Circular_carousel.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1706093566, 534559810]
