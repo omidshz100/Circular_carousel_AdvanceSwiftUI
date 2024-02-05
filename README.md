@@ -1,6 +1,6 @@
 # Circular Carousel
 
-![App Preview]('https://www.youtube.com/embed/3PssmxDRpF8?si=1kvHM9XthO7fqotP')
+![App Preview](https://youtube.com/shorts/3PssmxDRpF8?si=92s9COYVuvQBgUtN)
 
 This project, `Circular_carousel`, is an iOS app developed with SwiftUI and Swift. The primary purpose of this app is to showcase a circular carousel with dynamic image scaling and sliding effects.
 
@@ -44,7 +44,7 @@ Feel free to customize the project to suit your needs. You can modify image asse
 
 ## Preview
 
-To see a preview of the app, run the project in Xcode's SwiftUI preview or check the `CustomTab` view using the provided `NavigationLink`.
+To see a preview of the app, run the project in Xcode's SwiftUI preview or check the [YouTube Shorts Preview](https://youtube.com/shorts/3PssmxDRpF8?si=92s9COYVuvQBgUtN).
 
 ## Contributing
 
